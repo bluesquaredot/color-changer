@@ -1,0 +1,33 @@
+h1, p {
+  font-family: Lato;
+}
+
+.bg-white{
+  background-color: white;
+  height: 50vh;
+  width: 100vw;
+}
+.bg-red{
+  background-color: red;
+  height: 50vh;
+  width: 100vw;
+}
+.bg-green{
+  background-color: green;
+  color: white;
+  height: 50vh;
+  width: 100vw;
+}
+.bg-blue{
+  background-color: blue;
+  color: white;
+  height: 50vh;
+  width: 100vw;
+}
+.bg-black{
+  background-color: black;
+  color: white;
+  height: 50vh;
+  width: 100vw;
+}
+
